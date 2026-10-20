@@ -20,5 +20,11 @@ Te invitamos a **navegar por el menú superior y lateral** para acceder directam
 
 > 💡 *Sugerencia:* Utiliza la **barra de búsqueda** en la esquina superior derecha para encontrar rápidamente conceptos específicos, rutas o términos clave.
 
+## 💬 ¿Necesitas ayuda o soporte adicional?
+
+Además de nuestra documentación técnica, ponemos a tu disposición diversos canales directos de comunicación, asistencia especializada y enlaces de interés legal y operativo.
+
+👉 **[Consulta nuestras opciones de ayuda y soporte](ayuda-soporte.md)** para contactar con nuestro equipo vía WhatsApp, correo electrónico o formulario de contacto.
+
 ---
 <img src="img/logo-web.png" alt="" style="height: 30px !important;" />
