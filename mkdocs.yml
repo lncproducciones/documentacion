@@ -13,7 +13,9 @@ nav:
   - Inicio: index.md
   - InmoStore:
       - Introducción: inmostore/index.md
-  - Sysnet App: sysnet-app/index.md
+  - Sysnet App:
+    - Introducción: sysnet-app/index.md
+    - Validar una factura electrónica: sysnet-app/01-validar.md
   - Sysnet Transfer:
     - Introducción: sysnet-transfer/index.md
     - Página principal: sysnet-transfer/01-panel-principal.md
