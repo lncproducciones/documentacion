@@ -27,7 +27,7 @@ Bienvenido a los manuales oficiales de [**SYSNET Transfer**](https://transfer.sy
 ### Enlaces de interés
 * [Información de producto](https://transfer.sysnet.cloud/)
 * [Acceso a la aplicación web](https://transfer.sysnet.app/)
-* [Instalación de la PWA](https://transfer.sysnet.app/install)
+* [Obtén la PWA](https://transfer.sysnet.app/install)
 
 ---
 <img src="/documentacion/img/logo-web.png" alt="" style="height: 30px !important;" />

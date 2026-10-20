@@ -13,6 +13,19 @@ nav:
   - Inicio: index.md
   - InmoStore:
       - Introducción: inmostore/index.md
-  - Sysnet:
-    - Sysnet App: sysnet-app/index.md
-    - Sysnet Transfer: sysnet-transfer.md
+  - Sysnet App: sysnet-app/index.md
+  - Sysnet Transfer:
+    - Introducción: sysnet-transfer/index.md
+    - Página principal: sysnet-transfer/01-panel-principal.md
+    - Instalar la PWA: sysnet/transfer/02-instalar-pwa.md
+    - Operaciones:
+      - Nueva transferencia: sysnet-transfer/03-nueva-transferencia.md
+      - Nueva recarga: sysnet-transfer/04-nueva-recarga.md
+    - Configuración del usuario:
+      - Gestión de cajeros: sysnet-transfer/05-cajeros.md
+    - Administración:
+      - Sucursales: sysnet-transfer/06-sucursales.md
+      - Franquicias: sysnet-transfer/07-franquicias.md
+      - Paquetes y Planes Móviles: sysnet-transfer/08-paquetes.md
+      - Usuarios y Permisos: sysnet-transfer/09-usuarios-permisos.md
+      - Ajustes del sistema: sysnet-transfer/10-ajustes.md
