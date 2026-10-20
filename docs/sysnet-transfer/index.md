@@ -30,4 +30,4 @@ Bienvenido a los manuales oficiales de [**SYSNET Transfer**](https://transfer.sy
 * [Instalación de la PWA](https://transfer.sysnet.app/install)
 
 ---
-<img src="../img/logo-web.png" alt="" style="height: 30px !important;" />
+<img src="/documentacion/img/logo-web.png" alt="" style="height: 30px !important;" />

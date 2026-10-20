@@ -34,4 +34,4 @@ En el rol de operador solo se puede visualizar la gestión de la recarga que hay
 ![Imagen 15](https://raw.githubusercontent.com/lncproducciones/sysnet-docs/refs/heads/main/sysnet-transfer-wiki-imgs/015.png)
 
 ---
-<img src="../img/logo-web.png" alt="" style="height: 30px !important;" />
+<img src="/documentacion/img/logo-web.png" alt="" style="height: 30px !important;" />

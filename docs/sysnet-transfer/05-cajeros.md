@@ -13,4 +13,4 @@ Otras opciones que encontrará son las siguientes:
 3. Consulte su historial de recargas realizadas.
 
 ---
-<img src="../img/logo-web.png" alt="" style="height: 30px !important;" />
+<img src="/documentacion/img/logo-web.png" alt="" style="height: 30px !important;" />

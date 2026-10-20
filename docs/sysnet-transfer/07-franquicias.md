@@ -21,4 +21,4 @@ Realice cambios adicionales accediendo a la sección en las **Acciones** de la f
 Seleccione la opción de editar para hacer cambios, agregue el saldo correspondiente a la franquicia, visualice el histórico de los movimientos y los usuarios gestionados.
 
 ---
-<img src="../img/logo-web.png" alt="" style="height: 30px !important;" />
+<img src="/documentacion/img/logo-web.png" alt="" style="height: 30px !important;" />

@@ -19,4 +19,4 @@ También podrá encontrar el icono de la aplicación en su escritorio y en el me
 Con esto, ya no deberá recurrir de nuevo a la URL, facilitando su uso diario en su casa de cambios. Siempre pensando en facilitar su trabajo y usabilidad.
 
 ---
-<img src="../img/logo-web.png" alt="" style="height: 30px !important;" />
+<img src="/documentacion/img/logo-web.png" alt="" style="height: 30px !important;" />

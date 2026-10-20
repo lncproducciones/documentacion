@@ -72,4 +72,4 @@ Finalmente. haz clic en el botón de **Guardar cambios** para aplicar la configu
 * Realiza una **prueba de envío** para confirmar que los correos llegan correctamente.
 
 ---
-<img src="../img/logo-web.png" alt="" style="height: 30px !important;" />
+<img src="/documentacion/img/logo-web.png" alt="" style="height: 30px !important;" />

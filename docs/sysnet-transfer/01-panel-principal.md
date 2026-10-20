@@ -11,4 +11,4 @@ En el centro del panel principal se encuentran 3 botones que redireccionan a las
 ![Opciones](https://raw.githubusercontent.com/lncproducciones/sysnet-docs/refs/heads/main/sysnet-transfer-wiki-imgs/002.png)
 
 ---
-<img src="../img/logo-web.png" alt="" style="height: 30px !important;" />
+<img src="/documentacion/img/logo-web.png" alt="" style="height: 30px !important;" />

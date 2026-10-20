@@ -43,4 +43,4 @@
 ![Imagen 34](https://raw.githubusercontent.com/lncproducciones/sysnet-docs/refs/heads/main/sysnet-transfer-wiki-imgs/034.png)
 
 ---
-<img src="../img/logo-web.png" alt="" style="height: 30px !important;" />
+<img src="/documentacion/img/logo-web.png" alt="" style="height: 30px !important;" />

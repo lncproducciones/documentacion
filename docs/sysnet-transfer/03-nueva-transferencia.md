@@ -38,4 +38,4 @@ Seleccione el tipo de documento, luego de clic en el botón de **"Guardar cambio
 Luego de registrar el contacto, intente volver a buscar el contacto para realizar la transferencia.
 
 ---
-<img src="../img/logo-web.png" alt="" style="height: 30px !important;" />
+<img src="/documentacion/img/logo-web.png" alt="" style="height: 30px !important;" />

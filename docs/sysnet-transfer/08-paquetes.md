@@ -37,4 +37,4 @@ Para gestionar los paquetes y planes de telefonía móvil, acceda al módulo de 
 ![Imagen 28](https://raw.githubusercontent.com/lncproducciones/sysnet-docs/refs/heads/main/sysnet-transfer-wiki-imgs/028.png)
 
 ---
-<img src="../img/logo-web.png" alt="" style="height: 30px !important;" />
+<img src="/documentacion/img/logo-web.png" alt="" style="height: 30px !important;" />
