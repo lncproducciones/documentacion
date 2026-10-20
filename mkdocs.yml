@@ -17,7 +17,7 @@ nav:
   - Sysnet Transfer:
     - Introducción: sysnet-transfer/index.md
     - Página principal: sysnet-transfer/01-panel-principal.md
-    - Instalar la PWA: sysnet/transfer/02-instalar-pwa.md
+    - Instalar la PWA: sysnet-transfer/02-instalar-pwa.md
     - Operaciones:
       - Nueva transferencia: sysnet-transfer/03-nueva-transferencia.md
       - Nueva recarga: sysnet-transfer/04-nueva-recarga.md
