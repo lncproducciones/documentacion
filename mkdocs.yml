@@ -2,6 +2,8 @@ site_name: Portal de Documentación
 theme:
   name: material
   language: es
+  logo: img/favicon.png
+  favicon: img/favicon.png
   features:
     - navigation.tabs        # Pestañas superiores por programa
     - navigation.sections    # Secciones en el menú lateral
@@ -11,3 +13,6 @@ nav:
   - Inicio: index.md
   - InmoStore:
       - Introducción: inmostore/index.md
+  - Sysnet:
+    - Sysnet App: sysnet-app/index.md
+    - Sysnet Transfer: sysnet-transfer.md

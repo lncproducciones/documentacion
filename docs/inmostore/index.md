@@ -7,4 +7,4 @@
 * Bienvenida
 
 ---
-<img src="img/logo-web.png" alt="" style="height: 30px !important;" />
+<img src="../img/logo-web.png" alt="" style="height: 30px !important;" />
