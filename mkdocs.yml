@@ -1,0 +1,13 @@
+site_name: Portal de Documentación
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.tabs        # Pestañas superiores por programa
+    - navigation.sections    # Secciones en el menú lateral
+    - search.suggest
+
+nav:
+  - Inicio: index.md
+  - InmoStore:
+      - Introducción: inmostore/index.md
